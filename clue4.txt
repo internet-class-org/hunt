@@ -1,1 +1,6 @@
-this is clue 4
+(Files)
+Clue 4:
+First, go to your desktop and make a new file. Name it "helloWorld.html"
+Then, write some text in the file and save it.
+Then, open up this local file with chrome, using chromes address bar.
+Finally, visit experiment.internet-class.org/clue4.html
