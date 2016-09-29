@@ -3,4 +3,6 @@ Clue 4:
 First, go to your desktop and make a new file. Name it "helloWorld.html"
 Then, write some text in the file and save it.
 Then, open up this local file with chrome, using chromes address bar.
+
+(Hint: If only there was a website  where you could just ask questions... and get answers...)
 Finally, in a new tab, visit experiment.internet-class.org/clue4.html
